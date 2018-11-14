@@ -1,0 +1,23 @@
+.carousel-inner {
+    height: 500px;
+}
+.back {
+    background: grey url(../pic/texture1.png);
+    color: black;
+}
+.padding-top-bot {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.text-back {
+    background: grey url(../pic/light-board-1.jpg);
+    color: black;
+}
+.carousel-back {
+    background: grey url(../pic/kontrastnaja-setka.png);
+    color: black;
+}
+.contacts-back{
+    background: grey url(../pic/svetlyj-kirpich.png);
+    color: black;
+}
